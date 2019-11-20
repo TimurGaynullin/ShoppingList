@@ -1,0 +1,281 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\GaynullinTA\\source\\repos\\3\\Shopping\\ShoppingList\\Shopping List\\Shopping List.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\GaynullinTA\\source\\repos\\3\\Shopping\\ShoppingList\\Shopping List\\Shopping List.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\GaynullinTA\\source\\repos\\3\\Shopping\\ShoppingList\\Shopping List\\Shopping List.csproj",
+        "projectName": "Shopping List",
+        "projectPath": "C:\\Users\\GaynullinTA\\source\\repos\\3\\Shopping\\ShoppingList\\Shopping List\\Shopping List.csproj",
+        "packagesPath": "C:\\Users\\GaynullinTA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GaynullinTA\\source\\repos\\3\\Shopping\\ShoppingList\\Shopping List\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\GaynullinTA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://artifactory.abb-win.akbars.ru:8081/artifactory/api/nuget/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\GaynullinTA\\source\\repos\\3\\Shopping\\ShoppingList\\ShoppingList.DataBase\\ShoppingList.DataBase.csproj": {
+                "projectPath": "C:\\Users\\GaynullinTA\\source\\repos\\3\\Shopping\\ShoppingList\\ShoppingList.DataBase\\ShoppingList.DataBase.csproj"
+              },
+              "C:\\Users\\GaynullinTA\\source\\repos\\3\\Shopping\\ShoppingList\\ShoppingList.Domain\\ShoppingList.Domain.csproj": {
+                "projectPath": "C:\\Users\\GaynullinTA\\source\\repos\\3\\Shopping\\ShoppingList\\ShoppingList.Domain\\ShoppingList.Domain.csproj"
+              },
+              "C:\\Users\\GaynullinTA\\source\\repos\\3\\Shopping\\ShoppingList\\ShoppingListControllers\\ShoppingList.Controllers.csproj": {
+                "projectPath": "C:\\Users\\GaynullinTA\\source\\repos\\3\\Shopping\\ShoppingList\\ShoppingListControllers\\ShoppingList.Controllers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Cookies": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.HttpsPolicy": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\GaynullinTA\\source\\repos\\3\\Shopping\\ShoppingList\\ShoppingList.DataBase\\ShoppingList.DataBase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\GaynullinTA\\source\\repos\\3\\Shopping\\ShoppingList\\ShoppingList.DataBase\\ShoppingList.DataBase.csproj",
+        "projectName": "ShoppingList.DataBase",
+        "projectPath": "C:\\Users\\GaynullinTA\\source\\repos\\3\\Shopping\\ShoppingList\\ShoppingList.DataBase\\ShoppingList.DataBase.csproj",
+        "packagesPath": "C:\\Users\\GaynullinTA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GaynullinTA\\source\\repos\\3\\Shopping\\ShoppingList\\ShoppingList.DataBase\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\GaynullinTA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://artifactory.abb-win.akbars.ru:8081/artifactory/api/nuget/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\GaynullinTA\\source\\repos\\3\\Shopping\\ShoppingList\\ShoppingList.Domain\\ShoppingList.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\GaynullinTA\\source\\repos\\3\\Shopping\\ShoppingList\\ShoppingList.Domain\\ShoppingList.Domain.csproj",
+        "projectName": "ShoppingList.Domain",
+        "projectPath": "C:\\Users\\GaynullinTA\\source\\repos\\3\\Shopping\\ShoppingList\\ShoppingList.Domain\\ShoppingList.Domain.csproj",
+        "packagesPath": "C:\\Users\\GaynullinTA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GaynullinTA\\source\\repos\\3\\Shopping\\ShoppingList\\ShoppingList.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\GaynullinTA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://artifactory.abb-win.akbars.ru:8081/artifactory/api/nuget/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\GaynullinTA\\source\\repos\\3\\Shopping\\ShoppingList\\ShoppingList.DataBase\\ShoppingList.DataBase.csproj": {
+                "projectPath": "C:\\Users\\GaynullinTA\\source\\repos\\3\\Shopping\\ShoppingList\\ShoppingList.DataBase\\ShoppingList.DataBase.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\GaynullinTA\\source\\repos\\3\\Shopping\\ShoppingList\\ShoppingListControllers\\ShoppingList.Controllers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\GaynullinTA\\source\\repos\\3\\Shopping\\ShoppingList\\ShoppingListControllers\\ShoppingList.Controllers.csproj",
+        "projectName": "ShoppingList.Controllers",
+        "projectPath": "C:\\Users\\GaynullinTA\\source\\repos\\3\\Shopping\\ShoppingList\\ShoppingListControllers\\ShoppingList.Controllers.csproj",
+        "packagesPath": "C:\\Users\\GaynullinTA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GaynullinTA\\source\\repos\\3\\Shopping\\ShoppingList\\ShoppingListControllers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\GaynullinTA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://artifactory.abb-win.akbars.ru:8081/artifactory/api/nuget/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\GaynullinTA\\source\\repos\\3\\Shopping\\ShoppingList\\ShoppingList.DataBase\\ShoppingList.DataBase.csproj": {
+                "projectPath": "C:\\Users\\GaynullinTA\\source\\repos\\3\\Shopping\\ShoppingList\\ShoppingList.DataBase\\ShoppingList.DataBase.csproj"
+              },
+              "C:\\Users\\GaynullinTA\\source\\repos\\3\\Shopping\\ShoppingList\\ShoppingList.Domain\\ShoppingList.Domain.csproj": {
+                "projectPath": "C:\\Users\\GaynullinTA\\source\\repos\\3\\Shopping\\ShoppingList\\ShoppingList.Domain\\ShoppingList.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.Cookies": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

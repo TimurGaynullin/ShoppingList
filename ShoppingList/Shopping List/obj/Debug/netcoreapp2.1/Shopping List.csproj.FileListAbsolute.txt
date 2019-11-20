@@ -1,0 +1,18 @@
+C:\Users\GaynullinTA\source\repos\3\Shopping\ShoppingList\Shopping List\bin\Debug\netcoreapp2.1\Shopping List.deps.json
+C:\Users\GaynullinTA\source\repos\3\Shopping\ShoppingList\Shopping List\bin\Debug\netcoreapp2.1\Shopping List.runtimeconfig.json
+C:\Users\GaynullinTA\source\repos\3\Shopping\ShoppingList\Shopping List\bin\Debug\netcoreapp2.1\Shopping List.runtimeconfig.dev.json
+C:\Users\GaynullinTA\source\repos\3\Shopping\ShoppingList\Shopping List\bin\Debug\netcoreapp2.1\Shopping List.dll
+C:\Users\GaynullinTA\source\repos\3\Shopping\ShoppingList\Shopping List\bin\Debug\netcoreapp2.1\Shopping List.pdb
+C:\Users\GaynullinTA\source\repos\3\Shopping\ShoppingList\Shopping List\bin\Debug\netcoreapp2.1\ShoppingList.Controllers.dll
+C:\Users\GaynullinTA\source\repos\3\Shopping\ShoppingList\Shopping List\bin\Debug\netcoreapp2.1\ShoppingList.DataBase.dll
+C:\Users\GaynullinTA\source\repos\3\Shopping\ShoppingList\Shopping List\bin\Debug\netcoreapp2.1\ShoppingList.Domain.dll
+C:\Users\GaynullinTA\source\repos\3\Shopping\ShoppingList\Shopping List\bin\Debug\netcoreapp2.1\ShoppingList.DataBase.pdb
+C:\Users\GaynullinTA\source\repos\3\Shopping\ShoppingList\Shopping List\bin\Debug\netcoreapp2.1\ShoppingList.Domain.pdb
+C:\Users\GaynullinTA\source\repos\3\Shopping\ShoppingList\Shopping List\bin\Debug\netcoreapp2.1\ShoppingList.Controllers.pdb
+C:\Users\GaynullinTA\source\repos\3\Shopping\ShoppingList\Shopping List\obj\Debug\netcoreapp2.1\Shopping List.csproj.CoreCompileInputs.cache
+C:\Users\GaynullinTA\source\repos\3\Shopping\ShoppingList\Shopping List\obj\Debug\netcoreapp2.1\Shopping List.AssemblyInfoInputs.cache
+C:\Users\GaynullinTA\source\repos\3\Shopping\ShoppingList\Shopping List\obj\Debug\netcoreapp2.1\Shopping List.AssemblyInfo.cs
+C:\Users\GaynullinTA\source\repos\3\Shopping\ShoppingList\Shopping List\obj\Debug\netcoreapp2.1\Shopping List.csproj.CopyComplete
+C:\Users\GaynullinTA\source\repos\3\Shopping\ShoppingList\Shopping List\obj\Debug\netcoreapp2.1\Shopping List.dll
+C:\Users\GaynullinTA\source\repos\3\Shopping\ShoppingList\Shopping List\obj\Debug\netcoreapp2.1\Shopping List.pdb
+C:\Users\GaynullinTA\source\repos\3\Shopping\ShoppingList\Shopping List\obj\Debug\netcoreapp2.1\Shopping List.csprojAssemblyReference.cache
